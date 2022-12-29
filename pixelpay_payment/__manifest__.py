@@ -22,7 +22,7 @@
         'python': ['pycountry'],
     },
     'odoo-apps': True,
-    'images': ['static/description/banner_screenshot.png'],
+    'images': ['static/description/banner_screenshot.gif'],
     'assets': {
         'web.assets_frontend': [
             'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js',
