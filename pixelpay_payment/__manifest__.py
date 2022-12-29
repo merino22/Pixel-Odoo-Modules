@@ -8,6 +8,7 @@
     "author": "Powered by PixelPay",
     "website": "https://pixel.hn/",
     "depends": ["payment"],
+    "license": "MIT",
     "data": [
         # "security/ir.model.access.csv",
         "views/payment_pixel_templates.xml",
@@ -21,7 +22,7 @@
         'python': ['pycountry'],
     },
     'odoo-apps': True,
-
+    'images': ['static/description/banner_screenshot.png'],
     'assets': {
         'web.assets_frontend': [
             'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js',
