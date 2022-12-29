@@ -8,7 +8,7 @@
     "author": "Powered by PixelPay",
     "website": "https://pixel.hn/",
     "depends": ["payment"],
-    "license": "MIT",
+    "license": "LGPL-3",
     "data": [
         # "security/ir.model.access.csv",
         "views/payment_pixel_templates.xml",
